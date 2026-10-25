@@ -26,7 +26,7 @@
     "archive_branch": "archive/hrafn-local-preflight-20260721",
     "archive_commit": "91cbc37f57a0097c16b970bd03d75d4987d0f9eb",
     "changed_file": "scripts/preflight-hrafn-intent-run.mjs",
-    "studio_endpoint": "odin@100.86.99.100",
+    "studio_endpoint": "odin@<studio-tailnet-host>",
     "studio_repository": "/Users/odin/proxywar-k1z-hrafn",
     "studio_branch": "feature/k1z-hrafn-fylking",
     "studio_commit": "06c1c8794cbde3668230fb9508e39a4cb2cfc5cd",
