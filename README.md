@@ -39,7 +39,7 @@ macOS and Linux (on Windows, use WSL).
 ## Run it
 
 ```bash
-git clone https://github.com/welttowelt/proxywar-coworld-starter.git
+git clone https://github.com/odinfree/proxywar-coworld-starter.git
 cd proxywar-coworld-starter
 bash launch.sh my-agent
 ```
@@ -106,7 +106,7 @@ The static dashboard in [`site/`](site/) turns the committed round data into a c
 results, standings, and FFA-meta view. Refreshing the data also regenerates the JSON used
 by the frontend:
 
-**Public dashboard:** [GitHub Pages](https://welttowelt.github.io/proxywar-coworld-starter/)
+**Public dashboard:** [GitHub Pages](https://odinfree.github.io/proxywar-coworld-starter/)
 
 **Netlify entrypoint:** [welttowelt-proxywar.netlify.app](https://welttowelt-proxywar.netlify.app)
 

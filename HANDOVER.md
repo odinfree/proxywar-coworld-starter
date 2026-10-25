@@ -3,7 +3,7 @@
 Updated: 2026-07-21
 
 Canonical repository:
-[`welttowelt/proxywar-coworld-starter`](https://github.com/welttowelt/proxywar-coworld-starter)
+[`welttowelt/proxywar-coworld-starter`](https://github.com/odinfree/proxywar-coworld-starter)
 
 ## Mission
 

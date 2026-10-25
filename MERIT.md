@@ -130,7 +130,7 @@ credit for a name, an upload, a local anecdote, or a leaderboard snapshot alone.
 | K1Z Mickey Mouse no-harm deployment | Round 605 episode `0b018bcf...`, replay `6423abe5...`, proved old live v89 selected 8 accepted land attacks and 6 accepted naval invasions against Mickey while Mickey sent five alliance requests and zero harm. The emergency candidate is the exact v89 source/image with only the 13-line Mickey guard: branch `safety/mickey-no-harm-v89` commit `d50f3405`, image `sha256:b1edb1f...`; red-first `99/102`, then `143/143` full green; every other shipped file is byte-identical to v89 | `DEPLOYED_SAFETY_FIX`: `qd1n:v97` (`e83d7832...`), submission `sub_7f154c46...`, qualifier retry round 437 completed `2/2` at score `1.0`, membership `lpm_d8ca71ea...` competing champion; v89 benched. No performance experiment was mixed in. Evidence: `experiments/audit-qd1n-mickey-round605-live-harm-20260721.json`, `experiments/receipt-qd1n-v97-mickey-no-harm-deployment-20260721.json`; fleet mailbox `2e35920`. |
 
 Detailed evidence lives in [`experiments/`](experiments/README.md). Public round
-statistics live on the [dashboard](https://welttowelt.github.io/proxywar-coworld-starter/).
+statistics live on the [dashboard](https://odinfree.github.io/proxywar-coworld-starter/).
 
 Live truth after this audit: qd1n remains overall rank one at `44.6476`. Rounds
 373-375 finished `3, 2, 2`, so the active first-place streak is `0/1000`.

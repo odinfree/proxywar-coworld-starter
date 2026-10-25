@@ -4,7 +4,7 @@
   "created_at": "2026-07-20T23:27:33Z",
   "evidence_scope": "diagnostic_only",
   "source": {
-    "repository": "https://github.com/welttowelt/proxywar-coworld-starter",
+    "repository": "https://github.com/odinfree/proxywar-coworld-starter",
     "branch": "codex/mickey-multi-policy-bundle",
     "bundle_source_commit": "5d0709d3105a619b448e490c6c54b79e56ea4489",
     "policy_source_commit": "26c36eca6f30272c921f6c7049187192fc100e21",
